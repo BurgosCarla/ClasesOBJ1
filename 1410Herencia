@@ -1,0 +1,11 @@
+Herencia, permite no repetir código, tienen que tener metodos en común 
+Relaciones entre clases/definiciones de objeto
+Si no se especifica, se hereda de un objeto
+Herencia simple, hereda de un solo objeto 
+Metodo abstracto, method sin implementacion
+Herencia explicito/Look up (lo busca)
+Override sobreescribe en las subclases
+super = self 
+se debe pasar parámetro en el caso de usarlo en un methodo parametrizado
+Puede ser un parámetro estático
+template method method en común en las herencias
